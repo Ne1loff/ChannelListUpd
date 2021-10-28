@@ -10,4 +10,7 @@
     <color name="primary_white">#F6F6F9</color>
     <color name="screen_name">#17181A</color>
     <color name="line">#E1E4EC</color>
+    <color name="card_view">#F6F6F9</color>
+    <color name="channel_name">#202123</color>
+    <color name="channel_title">#90929E</color>
 </resources>
